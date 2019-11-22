@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TheMovieDBSQL</string>
+    <string name="time_out">Connection time out</string>
+    <string name="no_connection">You are not connected to the network</string>
+    <string name="movies">Movies</string>
+    <string name="tv">TV Shows</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="favorite_tv">Favorite TV Shows</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+    <string name="show_date">Show Date</string>
+    <string name="score">Score</string>
+    <string name="description">Description</string>
+    <string name="detail">Details</string>
+    <string name="error_load">Error Load Data!!</string>
+    <string name="add_movie">This movie add to favorite</string>
+    <string name="remove_movie">This movie remove from favorite</string>
+    <string name="add_tv">This TV Shows add to favorite</string>
+    <string name="remove_tv">This TV Show remove from favorite</string>
+</resources>

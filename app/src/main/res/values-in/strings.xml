@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TheMovieDBSQL</string>
+    <string name="time_out">Waktu koneksi habis</string>
+    <string name="no_connection">Anda tidak terhubung jaringan</string>
+    <string name="movies">Film</string>
+    <string name="tv">Acara TV</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="todo">TODO</string>
+    <string name="title">Judul</string>
+    <string name="show_date">Tanggal Tayang</string>
+    <string name="score">Skor</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail">Detail</string>
+    <string name="favorite_movies">Movie Favorit</string>
+    <string name="favorite_tv">Acara TV Favorit</string>
+    <string name="error_load">Gagal mengambil data!!</string>
+    <string name="add_movie">Film ini ditambahkan difavorit</string>
+    <string name="remove_movie">Film ini dihapus dari favorit</string>
+    <string name="add_tv">Acara TV ini ditambahkan difavorit</string>
+    <string name="remove_tv">Acara TV ini dihapus dari favorit</string>
+</resources>
